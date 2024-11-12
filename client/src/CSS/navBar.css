@@ -1,8 +1,12 @@
 .nav-bar {
     display: flex;
     justify-content: space-evenly;
-    background-color: aliceblue;
+    background-color: rgb(56, 141, 215);
     border-radius: 10px;
-    padding: 2.8em;
-    margin: 2.8em;
+    padding: 2em;
+    margin: 2em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.1em;
+    width: auto;
 }
+
