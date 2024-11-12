@@ -1,10 +1,12 @@
-
+import navBar from "./navbar"
 
 function home() {
 
-    
+
   return (
-    <div>home</div>
+    <>
+    <navBar/> 
+    </>
   )
 }
 

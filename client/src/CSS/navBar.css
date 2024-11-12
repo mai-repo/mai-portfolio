@@ -1,0 +1,8 @@
+.nav-bar {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 2.8em;
+    margin: 2.8em;
+}
