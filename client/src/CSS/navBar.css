@@ -1,8 +1,9 @@
 .nav-bar {
     display: flex;
     justify-content: space-evenly;
-    background-color: rgb(56, 141, 215);
-    border-radius: 10px;
+    border-radius: 20px;
+    border: 3px solid rgb(252, 252, 252);
+    color: black; 
     padding: 1.4em;
     margin: 1.4em;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -10,3 +11,6 @@
     width: auto;
 }
 
+a{
+    color: black; 
+}
